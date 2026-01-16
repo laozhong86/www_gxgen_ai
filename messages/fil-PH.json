@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI Matrix Marketing Operating System",
+    "description": "AI-powered na sistema ng traffic matrix na tumutulong sa MCN, cross-border e-commerce, at growth hackers na i-industrialize at i-automate ang produksyon ng nilalaman"
+  },
+  "nav": {
+    "features": "Mga Tampok",
+    "solutions": "Mga Solusyon",
+    "pricing": "Presyo",
+    "docs": "Dokumentasyon",
+    "login": "Mag-login",
+    "getStarted": "Magsimula"
+  },
+  "hero": {
+    "title": "Isang link,",
+    "titleHighlight": "Walang hanggang paglago",
+    "description": "I-paste ang link ng produkto → Gumawa ng content matrix → Auto-optimize gamit ang data",
+    "descriptionLine2": "Ang iyong AI Growth Agent ay nagsisimula dito"
+  },
+  "painPoints": {
+    "greeting": "Kumusta! Ako ang Growth Guide ng GxgenAI. Bago tayo magsimula, hayaan mo akong magtanong: nahaharap din ba ang iyong negosyo sa mga sakit ng paglago na ito?",
+    "highCost": {
+      "title": "Mataas na gastos sa pagkuha ng customer",
+      "description": "Nauubos na ang mga bentahe ng tradisyonal na channel, ang mga gastos sa operasyon ay lumampas sa kakayahang kumita."
+    },
+    "bottleneck": {
+      "title": "Bottleneck ng produktibidad",
+      "description": "Mabagal at mahal na produksyon ng nilalaman, hindi kayang suportahan ang buong network coverage."
+    },
+    "slowIteration": {
+      "title": "Mabagal na pag-ulit",
+      "description": "Naantala ang feedback ng data, hindi mahuli ang mabilis na nagbabagong mga uso ng trapiko."
+    }
+  },
+  "solution": {
+    "intro": "Ito ang iyong",
+    "highlight": "AI Growth Agent",
+    "suffix": "— nauunawaan ang iyong produkto, nagpapabuti ng sarili, at sumusukat nang walang hanggan.",
+    "understandProduct": {
+      "title": "Nauunawaan",
+      "description": "Awtomatikong kinukuha ang mga pangunahing punto ng pagbebenta ng produkto"
+    },
+    "selfIterate": {
+      "title": "Sariling Ebolusyon",
+      "description": "Real-time na pagsasaayos ng estratehiya batay sa data"
+    },
+    "scalable": {
+      "title": "Nasusukat",
+      "description": "One-click na replication sa lahat ng platform"
+    },
+    "visible": {
+      "title": "Nakikita",
+      "description": "Malinaw na ROI para sa bawat pisong ginastos"
+    }
+  },
+  "capabilities": {
+    "intro": "Pinapagana ng tatlong pangunahing makina:",
+    "aiEngine": {
+      "title": "AI Content Engine",
+      "subtitle": "Isang link, 100 expression",
+      "description": "Auto-extract ang mga selling point, gumawa ng video, larawan, at teksto sa boses ng iyong brand."
+    },
+    "matrixWorkflow": {
+      "title": "Sistema ng Matrix Distribution",
+      "subtitle": "Isang tao, 1000 account",
+      "description": "Matalinong pag-schedule, batch publishing, parang-tao na engagement sa lahat ng platform."
+    },
+    "dataOptimization": {
+      "title": "Data Optimization Loop",
+      "subtitle": "Hayaan ang data ang magpasya",
+      "description": "Real-time A/B testing, awtomatikong pagpili ng nananalong content, i-maximize ang bawat piso."
+    }
+  },
+  "targetAudience": {
+    "intro": "Ang GxgenAI ay pinagtibay ng mga pioneer sa iba't ibang larangan. Isa ka ba sa kanila?",
+    "overseas": "Global Expansion",
+    "ecommerce": "E-commerce Sellers",
+    "mcn": "MCN Agencies",
+    "brand": "Brand Marketing"
+  },
+  "cta": {
+    "ready": "Handa nang painitin ang iyong paglago?",
+    "bookCall": "Mag-book ng strategy call",
+    "freeTrialNote": "Libreng pagsubok · Hindi kailangan ang credit card",
+    "trustedBy": "Pinagkakatiwalaan ng 500+ growth teams"
+  },
+  "footer": {
+    "tagline": "Next-gen AI growth OS na tumutulong sa mga enterprise na muling ayusin ang kanilang growth DNA sa panahon ng synthetic content.",
+    "explore": "Tuklasin",
+    "connect": "Kumonekta",
+    "solutions": "Mga Solusyon",
+    "capabilities": "Mga Tampok",
+    "cases": "Mga Kwento ng Tagumpay",
+    "copyright": "© 2024 GXGENAI. LAHAT NG KARAPATAN AY NAKALAAN.",
+    "privacy": "Privacy",
+    "terms": "Mga Tuntunin",
+    "security": "Seguridad"
+  },
+  "demo": {
+    "intro": "Tingnan kung paano naging 100 content ang isang link:",
+    "placeholder": "I-paste ang link ng produkto dito...",
+    "generating": "Ginagawa...",
+    "outputLabel": "Nagawang content matrix:",
+    "video": "Mga Video",
+    "image": "Mga Larawan",
+    "copy": "Mga Teksto"
+  },
+  "socialProof": {
+    "intro": "Totoong resulta mula sa totoong mga user:",
+    "views": {
+      "title": "Tumaas ang views",
+      "description": "Cross-border e-commerce brand sa TikTok"
+    },
+    "efficiency": {
+      "title": "Content output",
+      "description": "Buwanang produksyon ng MCN agency"
+    },
+    "cost": {
+      "title": "Bumaba ang CAC",
+      "description": "Gastos sa pagkuha ng DTC brand"
+    }
+  }
+}

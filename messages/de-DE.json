@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI Matrix Marketing OS",
+    "description": "KI-gesteuertes Traffic-Matrix-Betriebssystem, das MCNs, Cross-Border-E-Commerce und Growth Hackern hilft, Content-Produktion zu industrialisieren und zu automatisieren"
+  },
+  "nav": {
+    "features": "Funktionen",
+    "solutions": "Lösungen",
+    "pricing": "Preise",
+    "docs": "Dokumentation",
+    "login": "Anmelden",
+    "getStarted": "Jetzt starten"
+  },
+  "hero": {
+    "title": "Ein Link,",
+    "titleHighlight": "Unendliches Wachstum",
+    "description": "Produktlink einfügen → Content-Matrix generieren → Mit Daten automatisch optimieren",
+    "descriptionLine2": "Ihr AI Growth Agent beginnt hier"
+  },
+  "painPoints": {
+    "greeting": "Hallo! Ich bin der Growth Guide von GxgenAI. Bevor wir beginnen, möchte ich fragen: Steht Ihr Unternehmen auch vor diesen Wachstumsschmerzen?",
+    "highCost": {
+      "title": "Hohe Kundenakquisitionskosten",
+      "description": "Traditionelle Kanalvorteile versiegen, Betriebskosten übersteigen die Rentabilität."
+    },
+    "bottleneck": {
+      "title": "Produktivitäts-Engpass",
+      "description": "Langsame und teure Content-Produktion, kann keine vollständige Netzwerkabdeckung unterstützen."
+    },
+    "slowIteration": {
+      "title": "Langsame Iteration",
+      "description": "Verzögertes Daten-Feedback, kann schnell wechselnde Traffic-Trends nicht erfassen."
+    }
+  },
+  "solution": {
+    "intro": "Das ist Ihr",
+    "highlight": "AI Growth Agent",
+    "suffix": "— versteht Ihr Produkt, entwickelt sich selbst weiter und skaliert unbegrenzt.",
+    "understandProduct": {
+      "title": "Versteht Produkte",
+      "description": "Extrahiert automatisch die Kern-Selling-Points"
+    },
+    "selfIterate": {
+      "title": "Selbst-Evolution",
+      "description": "Echtzeit-Strategieanpassung basierend auf Daten"
+    },
+    "scalable": {
+      "title": "Skalierbar",
+      "description": "Ein-Klick-Replikation auf alle Plattformen"
+    },
+    "visible": {
+      "title": "Transparent",
+      "description": "Klarer ROI für jeden ausgegebenen Euro"
+    }
+  },
+  "capabilities": {
+    "intro": "Angetrieben von drei Kern-Engines:",
+    "aiEngine": {
+      "title": "AI Content Engine",
+      "subtitle": "Ein Link, 100 Ausdrucksformen",
+      "description": "Verkaufsargumente automatisch extrahieren, Videos, Bilder und Texte in Ihrer Markenstimme generieren."
+    },
+    "matrixWorkflow": {
+      "title": "Matrix-Verteilungssystem",
+      "subtitle": "Eine Person, 1000 Konten",
+      "description": "Intelligente Planung, Massenveröffentlichung, menschenähnliches Engagement auf allen Plattformen."
+    },
+    "dataOptimization": {
+      "title": "Datenoptimierungsschleife",
+      "subtitle": "Lassen Sie die Daten entscheiden",
+      "description": "Echtzeit A/B-Tests, automatische Auswahl von Gewinner-Content, maximieren Sie jeden Euro."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI wird von Pionieren verschiedener Branchen eingesetzt. Gehören Sie dazu?",
+    "overseas": "Internationale Expansion",
+    "ecommerce": "E-Commerce-Händler",
+    "mcn": "MCN-Agenturen",
+    "brand": "Markenmarketing"
+  },
+  "cta": {
+    "ready": "Bereit, Ihr Wachstum zu entfachen?",
+    "bookCall": "Strategiegespräch buchen",
+    "freeTrialNote": "Kostenlose Testversion · Keine Kreditkarte erforderlich",
+    "trustedBy": "Über 500 Growth-Teams vertrauen uns"
+  },
+  "footer": {
+    "tagline": "Next-Gen AI Growth OS, das Unternehmen hilft, ihre Wachstums-DNA im Zeitalter synthetischer Inhalte neu zu organisieren.",
+    "explore": "Entdecken",
+    "connect": "Verbinden",
+    "solutions": "Lösungen",
+    "capabilities": "Funktionen",
+    "cases": "Erfolgsgeschichten",
+    "copyright": "© 2024 GXGENAI. ALLE RECHTE VORBEHALTEN.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "security": "Sicherheit"
+  },
+  "demo": {
+    "intro": "Sehen Sie, wie ein Link zu 100 Inhalten wird:",
+    "placeholder": "Fügen Sie hier Ihren Produktlink ein...",
+    "generating": "Wird generiert...",
+    "outputLabel": "Generierte Content-Matrix:",
+    "video": "Videos",
+    "image": "Bilder",
+    "copy": "Texte"
+  },
+  "socialProof": {
+    "intro": "Echte Ergebnisse von echten Nutzern:",
+    "views": {
+      "title": "Aufrufe gestiegen",
+      "description": "Cross-Border E-Commerce auf TikTok"
+    },
+    "efficiency": {
+      "title": "Content-Output",
+      "description": "MCN-Agentur monatliche Produktion"
+    },
+    "cost": {
+      "title": "CAC reduziert",
+      "description": "DTC-Marke Akquisitionskosten"
+    }
+  }
+}

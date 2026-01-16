@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AIマトリックスマーケティングOS",
+    "description": "AI駆動のトラフィックマトリックス運用システム。MCN、越境EC、グロースハッカーのコンテンツ生産の工業化と自動化を支援"
+  },
+  "nav": {
+    "features": "機能",
+    "solutions": "ソリューション",
+    "pricing": "料金",
+    "docs": "ドキュメント",
+    "login": "ログイン",
+    "getStarted": "今すぐ始める"
+  },
+  "hero": {
+    "title": "ひとつのリンクで",
+    "titleHighlight": "無限の成長を",
+    "description": "商品リンクを貼る → コンテンツマトリックスを生成 → データで自動最適化",
+    "descriptionLine2": "あなたのAIグロースエージェントはここから始まります"
+  },
+  "painPoints": {
+    "greeting": "こんにちは！GxgenAIのグロースガイドです。始める前に、お聞きしたいことがあります：あなたのビジネスも、こんな「成長の痛み」を抱えていませんか？",
+    "highCost": {
+      "title": "高い顧客獲得コスト",
+      "description": "従来チャネルの優位性が失われ、運営コストが収益力を超えている。"
+    },
+    "bottleneck": {
+      "title": "生産性のボトルネック",
+      "description": "コンテンツ制作が遅く、コストが高く、全ネットワークカバレッジを支えられない。"
+    },
+    "slowIteration": {
+      "title": "戦略の反復が遅い",
+      "description": "データフィードバックが遅れ、急変するトラフィックトレンドを捉えられない。"
+    }
+  },
+  "solution": {
+    "intro": "これがあなたの",
+    "highlight": "AIグロースエージェント",
+    "suffix": "—— 製品を理解し、自己進化し、無限にスケール。",
+    "understandProduct": {
+      "title": "製品を理解",
+      "description": "製品の核心的な訴求ポイントを自動抽出"
+    },
+    "selfIterate": {
+      "title": "自己進化",
+      "description": "リアルデータに基づきリアルタイムで戦略を調整"
+    },
+    "scalable": {
+      "title": "スケーラブル",
+      "description": "ワンクリックで成功パターンを全プラットフォームに展開"
+    },
+    "visible": {
+      "title": "可視化",
+      "description": "すべての予算のROIが明確に見える"
+    }
+  },
+  "capabilities": {
+    "intro": "3つのコアエンジンで駆動：",
+    "aiEngine": {
+      "title": "AIコンテンツエンジン",
+      "subtitle": "1リンク、100の表現",
+      "description": "セールスポイントを自動抽出、動画・画像・コピーをブランドの声で生成。"
+    },
+    "matrixWorkflow": {
+      "title": "マトリックス配信システム",
+      "subtitle": "1人で1000アカウント管理",
+      "description": "スマートスケジューリング、一括投稿、人間らしいエンゲージメントを全プラットフォームで。"
+    },
+    "dataOptimization": {
+      "title": "データ最適化ループ",
+      "subtitle": "データに決めさせる",
+      "description": "リアルタイムA/Bテスト、勝者コンテンツを自動選択、1円も無駄にしない。"
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAIは様々な分野のパイオニアに採用されています。あなたもその一人ですか？",
+    "overseas": "海外展開企業",
+    "ecommerce": "ECセラー",
+    "mcn": "MCN機関",
+    "brand": "ブランドマーケティング"
+  },
+  "cta": {
+    "ready": "成長に火をつける準備はできていますか？",
+    "bookCall": "戦略コールを予約",
+    "freeTrialNote": "無料トライアル · クレジットカード不要",
+    "trustedBy": "500以上のグロースチームが利用中"
+  },
+  "footer": {
+    "tagline": "次世代AIグロースOS。合成コンテンツ時代に企業の成長DNAを再構築。",
+    "explore": "探索",
+    "connect": "つながる",
+    "solutions": "ソリューション",
+    "capabilities": "機能",
+    "cases": "成功事例",
+    "copyright": "© 2024 GXGENAI. ALL RIGHTS RESERVED.",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "security": "セキュリティ"
+  },
+  "demo": {
+    "intro": "1つのリンクが100のコンテンツになる様子をご覧ください：",
+    "placeholder": "商品リンクをここに貼り付け...",
+    "generating": "生成中...",
+    "outputLabel": "生成されたコンテンツマトリックス：",
+    "video": "動画",
+    "image": "画像",
+    "copy": "コピー"
+  },
+  "socialProof": {
+    "intro": "実際のユーザーからの実績：",
+    "views": {
+      "title": "再生数アップ",
+      "description": "越境EC TikTok事例"
+    },
+    "efficiency": {
+      "title": "コンテンツ産出量",
+      "description": "MCN機関月間生産能力"
+    },
+    "cost": {
+      "title": "CACダウン",
+      "description": "DTCブランド獲得コスト"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - Sistem Operasi Pemasaran Matriks AI",
+    "description": "Sistem operasi matriks trafik dikuasakan AI yang membantu MCN, e-dagang rentas sempadan dan growth hacker mengindustrisasi dan mengautomasikan pengeluaran kandungan"
+  },
+  "nav": {
+    "features": "Ciri-ciri",
+    "solutions": "Penyelesaian",
+    "pricing": "Harga",
+    "docs": "Dokumentasi",
+    "login": "Log Masuk",
+    "getStarted": "Mula"
+  },
+  "hero": {
+    "title": "Satu pautan,",
+    "titleHighlight": "Pertumbuhan tanpa had",
+    "description": "Tampal pautan produk → Jana matriks kandungan → Pengoptimuman automatik dengan data",
+    "descriptionLine2": "Agen Pertumbuhan AI anda bermula di sini"
+  },
+  "painPoints": {
+    "greeting": "Hai! Saya adalah Panduan Pertumbuhan GxgenAI. Sebelum bermula, izinkan saya bertanya: adakah perniagaan anda juga menghadapi kesakitan pertumbuhan ini?",
+    "highCost": {
+      "title": "Kos pemerolehan pelanggan tinggi",
+      "description": "Kelebihan saluran tradisional semakin berkurang, kos operasi melebihi keuntungan."
+    },
+    "bottleneck": {
+      "title": "Kesesakan produktiviti",
+      "description": "Pengeluaran kandungan perlahan dan mahal, tidak mampu menyokong liputan rangkaian penuh."
+    },
+    "slowIteration": {
+      "title": "Iterasi perlahan",
+      "description": "Maklum balas data tertangguh, tidak dapat menangkap trend trafik yang berubah pantas."
+    }
+  },
+  "solution": {
+    "intro": "Ini adalah",
+    "highlight": "Agen Pertumbuhan AI",
+    "suffix": "anda — memahami produk, berkembang sendiri dan berskala tanpa had.",
+    "understandProduct": {
+      "title": "Memahami",
+      "description": "Mengekstrak titik jualan teras produk secara automatik"
+    },
+    "selfIterate": {
+      "title": "Evolusi Kendiri",
+      "description": "Pelarasan strategi masa nyata berdasarkan data"
+    },
+    "scalable": {
+      "title": "Boleh Diskala",
+      "description": "Replikasi satu klik ke semua platform"
+    },
+    "visible": {
+      "title": "Boleh Dilihat",
+      "description": "ROI yang jelas untuk setiap ringgit yang dibelanjakan"
+    }
+  },
+  "capabilities": {
+    "intro": "Dikuasakan oleh tiga enjin teras:",
+    "aiEngine": {
+      "title": "Enjin Kandungan AI",
+      "subtitle": "Satu pautan, 100 ekspresi",
+      "description": "Ekstrak automatik titik jualan, jana video, imej dan teks dengan suara jenama anda."
+    },
+    "matrixWorkflow": {
+      "title": "Sistem Pengedaran Matriks",
+      "subtitle": "Seorang, 1000 akaun",
+      "description": "Penjadualan pintar, penerbitan pukal, penglibatan seperti manusia di semua platform."
+    },
+    "dataOptimization": {
+      "title": "Gelung Pengoptimuman Data",
+      "subtitle": "Biarkan data membuat keputusan",
+      "description": "Ujian A/B masa nyata, pemilihan kandungan menang automatik, maksimumkan setiap ringgit."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI sedang diterima pakai oleh perintis dalam pelbagai bidang. Adakah anda salah seorang daripada mereka?",
+    "overseas": "Pengembangan Global",
+    "ecommerce": "Penjual E-dagang",
+    "mcn": "Agensi MCN",
+    "brand": "Pemasaran Jenama"
+  },
+  "cta": {
+    "ready": "Bersedia menyalakan pertumbuhan anda?",
+    "bookCall": "Tempah panggilan strategi",
+    "freeTrialNote": "Percubaan percuma · Tiada kad kredit diperlukan",
+    "trustedBy": "Dipercayai oleh 500+ pasukan pertumbuhan"
+  },
+  "footer": {
+    "tagline": "OS pertumbuhan AI generasi seterusnya membantu perusahaan menyusun semula DNA pertumbuhan mereka dalam era kandungan sintetik.",
+    "explore": "Terokai",
+    "connect": "Berhubung",
+    "solutions": "Penyelesaian",
+    "capabilities": "Ciri-ciri",
+    "cases": "Kisah Kejayaan",
+    "copyright": "© 2024 GXGENAI. HAK CIPTA TERPELIHARA.",
+    "privacy": "Privasi",
+    "terms": "Terma",
+    "security": "Keselamatan"
+  },
+  "demo": {
+    "intro": "Lihat bagaimana satu pautan menjadi 100 kandungan:",
+    "placeholder": "Tampal pautan produk anda di sini...",
+    "generating": "Menjana...",
+    "outputLabel": "Matriks kandungan yang dijana:",
+    "video": "Video",
+    "image": "Imej",
+    "copy": "Teks"
+  },
+  "socialProof": {
+    "intro": "Hasil sebenar daripada pengguna sebenar:",
+    "views": {
+      "title": "Peningkatan tontonan",
+      "description": "Jenama e-dagang rentas sempadan di TikTok"
+    },
+    "efficiency": {
+      "title": "Output kandungan",
+      "description": "Pengeluaran bulanan agensi MCN"
+    },
+    "cost": {
+      "title": "Pengurangan CAC",
+      "description": "Kos pemerolehan jenama DTC"
+    }
+  }
+}

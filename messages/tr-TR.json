@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI Matris Pazarlama İşletim Sistemi",
+    "description": "MCN'lere, sınır ötesi e-ticarete ve growth hacker'lara içerik üretimini endüstrileştirme ve otomatikleştirmede yardımcı olan AI destekli trafik matrisi işletim sistemi"
+  },
+  "nav": {
+    "features": "Özellikler",
+    "solutions": "Çözümler",
+    "pricing": "Fiyatlandırma",
+    "docs": "Dokümantasyon",
+    "login": "Giriş Yap",
+    "getStarted": "Başla"
+  },
+  "hero": {
+    "title": "Tek link,",
+    "titleHighlight": "Sonsuz büyüme",
+    "description": "Ürün linkini yapıştır → İçerik matrisi oluştur → Verilerle otomatik optimize et",
+    "descriptionLine2": "AI Büyüme Ajanınız burada başlıyor"
+  },
+  "painPoints": {
+    "greeting": "Merhaba! Ben GxgenAI'nin Büyüme Rehberiyim. Başlamadan önce sormak istiyorum: İşletmeniz de bu büyüme sancılarıyla karşı karşıya mı?",
+    "highCost": {
+      "title": "Yüksek müşteri edinme maliyeti",
+      "description": "Geleneksel kanal avantajları tükeniyor, işletme maliyetleri karlılığı aşıyor."
+    },
+    "bottleneck": {
+      "title": "Verimlilik darboğazı",
+      "description": "Yavaş ve pahalı içerik üretimi, tam ağ kapsamını destekleyemiyor."
+    },
+    "slowIteration": {
+      "title": "Yavaş iterasyon",
+      "description": "Gecikmiş veri geri bildirimi, hızla değişen trafik trendlerini yakalayamıyor."
+    }
+  },
+  "solution": {
+    "intro": "Bu sizin",
+    "highlight": "AI Büyüme Ajanınız",
+    "suffix": "— ürününüzü anlar, kendi kendini geliştirir ve sonsuz ölçeklenir.",
+    "understandProduct": {
+      "title": "Anlıyor",
+      "description": "Ürünün temel satış noktalarını otomatik olarak çıkarıyor"
+    },
+    "selfIterate": {
+      "title": "Kendini Geliştiriyor",
+      "description": "Verilere dayalı gerçek zamanlı strateji ayarlaması"
+    },
+    "scalable": {
+      "title": "Ölçeklenebilir",
+      "description": "Tek tıklamayla tüm platformlara çoğaltma"
+    },
+    "visible": {
+      "title": "Görünür",
+      "description": "Harcanan her lira için net ROI"
+    }
+  },
+  "capabilities": {
+    "intro": "Üç temel motorla çalışır:",
+    "aiEngine": {
+      "title": "AI İçerik Motoru",
+      "subtitle": "Bir link, 100 ifade",
+      "description": "Satış noktalarını otomatik çıkar, marka sesinizle video, görsel ve metin üret."
+    },
+    "matrixWorkflow": {
+      "title": "Matris Dağıtım Sistemi",
+      "subtitle": "Bir kişi, 1000 hesap",
+      "description": "Akıllı zamanlama, toplu yayınlama, tüm platformlarda insansı etkileşim."
+    },
+    "dataOptimization": {
+      "title": "Veri Optimizasyon Döngüsü",
+      "subtitle": "Veriler karar versin",
+      "description": "Gerçek zamanlı A/B testi, kazanan içeriği otomatik seç, her lirayı maksimize et."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI farklı alanlardaki öncüler tarafından benimseniyor. Siz de onlardan biri misiniz?",
+    "overseas": "Global Genişleme",
+    "ecommerce": "E-ticaret Satıcıları",
+    "mcn": "MCN Ajansları",
+    "brand": "Marka Pazarlama"
+  },
+  "cta": {
+    "ready": "Büyümenizi ateşlemeye hazır mısınız?",
+    "bookCall": "Strateji görüşmesi ayırt",
+    "freeTrialNote": "Ücretsiz deneme · Kredi kartı gerekmez",
+    "trustedBy": "500'den fazla büyüme ekibi bize güveniyor"
+  },
+  "footer": {
+    "tagline": "Sentetik içerik çağında şirketlerin büyüme DNA'larını yeniden düzenlemelerine yardımcı olan yeni nesil AI büyüme OS.",
+    "explore": "Keşfet",
+    "connect": "Bağlan",
+    "solutions": "Çözümler",
+    "capabilities": "Özellikler",
+    "cases": "Başarı Hikayeleri",
+    "copyright": "© 2024 GXGENAI. TÜM HAKLARI SAKLIDIR.",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "security": "Güvenlik"
+  },
+  "demo": {
+    "intro": "Bir linkin 100 içeriğe nasıl dönüştüğünü görün:",
+    "placeholder": "Ürün linkinizi buraya yapıştırın...",
+    "generating": "Oluşturuluyor...",
+    "outputLabel": "Oluşturulan içerik matrisi:",
+    "video": "Videolar",
+    "image": "Görseller",
+    "copy": "Metinler"
+  },
+  "socialProof": {
+    "intro": "Gerçek kullanıcılardan gerçek sonuçlar:",
+    "views": {
+      "title": "Görüntüleme artışı",
+      "description": "TikTok'ta sınır ötesi e-ticaret markası"
+    },
+    "efficiency": {
+      "title": "İçerik üretimi",
+      "description": "MCN ajansı aylık üretim"
+    },
+    "cost": {
+      "title": "CAC düşüşü",
+      "description": "DTC marka edinme maliyeti"
+    }
+  }
+}

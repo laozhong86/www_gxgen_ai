@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI 矩陣行銷操作系統",
+    "description": "AI 驅動的流量矩陣操作系統，幫助 MCN 機構、跨境電商和增長駭客實現內容生產工業化與自動化"
+  },
+  "nav": {
+    "features": "核心能力",
+    "solutions": "解決方案",
+    "pricing": "定價",
+    "docs": "文檔",
+    "login": "登入",
+    "getStarted": "立即開始"
+  },
+  "hero": {
+    "title": "一個連結",
+    "titleHighlight": "無限增長",
+    "description": "貼上產品連結 → 生成內容矩陣 → 數據驅動自動優化",
+    "descriptionLine2": "你的 AI 增長代理，從這裡開始"
+  },
+  "painPoints": {
+    "greeting": "你好！我是 GxgenAI 的增長嚮導。在開始前，我想問問：你的業務是否也正面臨這些增長之痛？",
+    "highCost": {
+      "title": "獲客成本極高",
+      "description": "傳統渠道紅利見底，運營成本超出盈利能力。"
+    },
+    "bottleneck": {
+      "title": "生產力瓶頸",
+      "description": "內容產出速度慢、成本高，難以支撐全網覆蓋。"
+    },
+    "slowIteration": {
+      "title": "策略迭代慢",
+      "description": "數據反饋滯後，無法捕捉瞬息萬變的流量趨勢。"
+    }
+  },
+  "solution": {
+    "intro": "這就是你的",
+    "highlight": "AI 增長代理",
+    "suffix": "—— 懂你的產品，自我迭代，無限擴展。",
+    "understandProduct": {
+      "title": "懂產品",
+      "description": "自動提取產品傳播核心爽點"
+    },
+    "selfIterate": {
+      "title": "自迭代",
+      "description": "基於真實數據實時調整策略"
+    },
+    "scalable": {
+      "title": "規模化",
+      "description": "一鍵複刻成功路徑至全平台"
+    },
+    "visible": {
+      "title": "可視化",
+      "description": "每一分預算的 ROI 清晰可見"
+    }
+  },
+  "capabilities": {
+    "intro": "由三大核心引擎驅動：",
+    "aiEngine": {
+      "title": "AI 內容引擎",
+      "subtitle": "一個連結，100 種表達",
+      "description": "自動提取賣點，生成影片、圖片、文案，保持品牌調性。"
+    },
+    "matrixWorkflow": {
+      "title": "矩陣分發系統",
+      "subtitle": "一人管理 1000 個帳號",
+      "description": "智能排程、批量發佈、類人互動，全平台覆蓋。"
+    },
+    "dataOptimization": {
+      "title": "數據優化閉環",
+      "subtitle": "讓數據告訴你下一步",
+      "description": "即時 A/B 測試，自動篩選爆款，每一分錢都花在刀刃上。"
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI 正被不同領域的先行者所採用，你是否屬於其中之一？",
+    "overseas": "出海企業",
+    "ecommerce": "電商賣家",
+    "mcn": "MCN 機構",
+    "brand": "品牌市場部"
+  },
+  "cta": {
+    "ready": "準備好點燃你的增長了嗎？",
+    "bookCall": "預約策略電話",
+    "freeTrialNote": "免費試用 · 無需信用卡",
+    "trustedBy": "已有 500+ 增長團隊在使用"
+  },
+  "footer": {
+    "tagline": "下一代 AI 增長操作系統，幫助企業在合成內容時代重組增長基因。",
+    "explore": "探索",
+    "connect": "連接",
+    "solutions": "解決方案",
+    "capabilities": "核心能力",
+    "cases": "成功案例",
+    "copyright": "© 2024 GXGENAI. ALL RIGHTS RESERVED.",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "security": "安全"
+  },
+  "demo": {
+    "intro": "看看一個連結如何變成 100 條內容：",
+    "placeholder": "在此貼上你的產品連結...",
+    "generating": "生成中...",
+    "outputLabel": "生成的內容矩陣：",
+    "video": "影片",
+    "image": "圖片",
+    "copy": "文案"
+  },
+  "socialProof": {
+    "intro": "真實用戶的增長數據：",
+    "views": {
+      "title": "播放量提升",
+      "description": "某跨境電商 TikTok 案例"
+    },
+    "efficiency": {
+      "title": "內容產出",
+      "description": "某 MCN 機構月產能"
+    },
+    "cost": {
+      "title": "獲客成本降低",
+      "description": "某 DTC 品牌數據"
+    }
+  }
+}

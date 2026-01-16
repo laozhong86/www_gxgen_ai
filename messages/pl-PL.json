@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - System operacyjny marketingu matrycowego AI",
+    "description": "System operacyjny matrycy ruchu oparty na AI, pomagający MCN, e-commerce transgranicznym i growth hackerom w uprzemysłowieniu i automatyzacji produkcji treści"
+  },
+  "nav": {
+    "features": "Funkcje",
+    "solutions": "Rozwiązania",
+    "pricing": "Cennik",
+    "docs": "Dokumentacja",
+    "login": "Zaloguj się",
+    "getStarted": "Rozpocznij"
+  },
+  "hero": {
+    "title": "Jeden link,",
+    "titleHighlight": "Nieskończony wzrost",
+    "description": "Wklej link produktu → Wygeneruj matrycę treści → Automatyczna optymalizacja na podstawie danych",
+    "descriptionLine2": "Twój Agent Wzrostu AI zaczyna tutaj"
+  },
+  "painPoints": {
+    "greeting": "Cześć! Jestem przewodnikiem wzrostu GxgenAI. Zanim zaczniemy, pozwól mi zapytać: czy Twój biznes również boryka się z tymi bólami wzrostu?",
+    "highCost": {
+      "title": "Wysoki koszt pozyskania klienta",
+      "description": "Zalety tradycyjnych kanałów się wyczerpują, koszty operacyjne przekraczają rentowność."
+    },
+    "bottleneck": {
+      "title": "Wąskie gardło produktywności",
+      "description": "Powolna i droga produkcja treści, niezdolna do wsparcia pełnego pokrycia sieciowego."
+    },
+    "slowIteration": {
+      "title": "Powolna iteracja",
+      "description": "Opóźniona informacja zwrotna, niezdolność do uchwycenia szybko zmieniających się trendów ruchu."
+    }
+  },
+  "solution": {
+    "intro": "To jest Twój",
+    "highlight": "Agent Wzrostu AI",
+    "suffix": "— rozumie Twój produkt, samodoskonali się i skaluje bez końca.",
+    "understandProduct": {
+      "title": "Rozumie",
+      "description": "Automatycznie wyodrębnia kluczowe punkty sprzedaży produktu"
+    },
+    "selfIterate": {
+      "title": "Samoewolucja",
+      "description": "Dostosowanie strategii w czasie rzeczywistym na podstawie danych"
+    },
+    "scalable": {
+      "title": "Skalowalny",
+      "description": "Replikacja jednym kliknięciem na wszystkie platformy"
+    },
+    "visible": {
+      "title": "Przejrzysty",
+      "description": "Jasny ROI za każdą wydaną złotówkę"
+    }
+  },
+  "capabilities": {
+    "intro": "Napędzany przez trzy silniki:",
+    "aiEngine": {
+      "title": "Silnik Treści AI",
+      "subtitle": "Jeden link, 100 wyrażeń",
+      "description": "Automatyczne wyodrębnianie punktów sprzedaży, generowanie wideo, obrazów i tekstów w głosie Twojej marki."
+    },
+    "matrixWorkflow": {
+      "title": "System Dystrybucji Macierzowej",
+      "subtitle": "Jedna osoba, 1000 kont",
+      "description": "Inteligentne planowanie, masowe publikowanie, ludzkie zaangażowanie na wszystkich platformach."
+    },
+    "dataOptimization": {
+      "title": "Pętla Optymalizacji Danych",
+      "subtitle": "Niech dane decydują",
+      "description": "Testy A/B w czasie rzeczywistym, automatyczny wybór zwycięskich treści, maksymalizacja każdej złotówki."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI jest adoptowane przez pionierów w różnych dziedzinach. Czy jesteś jednym z nich?",
+    "overseas": "Ekspansja globalna",
+    "ecommerce": "Sprzedawcy e-commerce",
+    "mcn": "Agencje MCN",
+    "brand": "Marketing marki"
+  },
+  "cta": {
+    "ready": "Gotowy rozpalić swój wzrost?",
+    "bookCall": "Umów rozmowę strategiczną",
+    "freeTrialNote": "Bezpłatny okres próbny · Bez karty kredytowej",
+    "trustedBy": "Ponad 500 zespołów wzrostu nam ufa"
+  },
+  "footer": {
+    "tagline": "OS wzrostu AI nowej generacji pomagający firmom reorganizować ich DNA wzrostu w erze syntetycznych treści.",
+    "explore": "Odkrywaj",
+    "connect": "Połącz się",
+    "solutions": "Rozwiązania",
+    "capabilities": "Funkcje",
+    "cases": "Historie sukcesu",
+    "copyright": "© 2024 GXGENAI. WSZELKIE PRAWA ZASTRZEŻONE.",
+    "privacy": "Prywatność",
+    "terms": "Warunki",
+    "security": "Bezpieczeństwo"
+  },
+  "demo": {
+    "intro": "Zobacz, jak jeden link staje się 100 treściami:",
+    "placeholder": "Wklej tutaj link do produktu...",
+    "generating": "Generowanie...",
+    "outputLabel": "Wygenerowana matryca treści:",
+    "video": "Wideo",
+    "image": "Obrazy",
+    "copy": "Teksty"
+  },
+  "socialProof": {
+    "intro": "Realne wyniki od prawdziwych użytkowników:",
+    "views": {
+      "title": "Wzrost wyświetleń",
+      "description": "Transgraniczny e-commerce na TikTok"
+    },
+    "efficiency": {
+      "title": "Produkcja treści",
+      "description": "Miesięczna produkcja agencji MCN"
+    },
+    "cost": {
+      "title": "Redukcja CAC",
+      "description": "Koszt pozyskania marki DTC"
+    }
+  }
+}

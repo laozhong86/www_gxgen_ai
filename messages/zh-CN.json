@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI 矩阵营销操作系统",
+    "description": "AI 驱动的流量矩阵操作系统，帮助 MCN 机构、跨境电商和增长黑客实现内容生产工业化与自动化"
+  },
+  "nav": {
+    "features": "核心能力",
+    "solutions": "解决方案",
+    "pricing": "定价",
+    "docs": "文档",
+    "login": "登录",
+    "getStarted": "立即开始"
+  },
+  "hero": {
+    "title": "一个链接",
+    "titleHighlight": "无限增长",
+    "description": "粘贴产品链接 → 生成内容矩阵 → 数据驱动自动优化",
+    "descriptionLine2": "你的 AI 增长AGENT，从这里开始"
+  },
+  "painPoints": {
+    "greeting": "你好！我是 GxgenAI 的增长向导。在开始前，我想问问：你的业务是否也正面临这些增长之痛？",
+    "highCost": {
+      "title": "获客成本极高",
+      "description": "传统渠道红利见底，运营成本超出盈利能力。"
+    },
+    "bottleneck": {
+      "title": "生产力瓶颈",
+      "description": "内容产出速度慢、成本高，难以支撑全网覆盖。"
+    },
+    "slowIteration": {
+      "title": "策略迭代慢",
+      "description": "数据反馈滞后，无法捕捉瞬息万变的流量趋势。"
+    }
+  },
+  "demo": {
+    "intro": "看看一个链接如何变成 100 条内容：",
+    "placeholder": "在此粘贴你的产品链接...",
+    "generating": "生成中...",
+    "outputLabel": "生成的内容矩阵：",
+    "video": "视频",
+    "image": "图片",
+    "copy": "文案"
+  },
+  "solution": {
+    "intro": "这就是你的",
+    "highlight": "AI 增长代理",
+    "suffix": "—— 懂你的产品，自我迭代，无限扩展。",
+    "understandProduct": {
+      "title": "懂产品",
+      "description": "自动提取产品传播核心爽点"
+    },
+    "selfIterate": {
+      "title": "自迭代",
+      "description": "基于真实数据实时调整策略"
+    },
+    "scalable": {
+      "title": "规模化",
+      "description": "一键复刻成功路径至全平台"
+    },
+    "visible": {
+      "title": "可视化",
+      "description": "每一分预算的 ROI 清晰可见"
+    }
+  },
+  "capabilities": {
+    "intro": "由三大核心引擎驱动：",
+    "aiEngine": {
+      "title": "AI 内容引擎",
+      "subtitle": "一个链接，100 种表达",
+      "description": "自动提取卖点，生成视频、图片、文案，保持品牌调性。"
+    },
+    "matrixWorkflow": {
+      "title": "矩阵分发系统",
+      "subtitle": "一人管理 1000 个账号",
+      "description": "智能排期、批量发布、类人互动，全平台覆盖。"
+    },
+    "dataOptimization": {
+      "title": "数据优化闭环",
+      "subtitle": "让数据告诉你下一步",
+      "description": "实时 A/B 测试，自动筛选爆款，每一分钱都花在刀刃上。"
+    }
+  },
+  "socialProof": {
+    "intro": "真实用户的增长数据：",
+    "views": {
+      "title": "播放量提升",
+      "description": "某跨境电商 TikTok 案例"
+    },
+    "efficiency": {
+      "title": "内容产出",
+      "description": "某 MCN 机构月产能"
+    },
+    "cost": {
+      "title": "获客成本降低",
+      "description": "某 DTC 品牌数据"
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI 正被不同领域的先行者所采用，你是否属于其中之一？",
+    "overseas": "出海企业",
+    "ecommerce": "电商卖家",
+    "mcn": "MCN 机构",
+    "brand": "品牌市场部"
+  },
+  "cta": {
+    "ready": "准备好点燃你的增长了吗？",
+    "bookCall": "预约策略电话",
+    "freeTrialNote": "免费试用 · 无需信用卡",
+    "trustedBy": "已有 500+ 增长团队在使用"
+  },
+  "footer": {
+    "tagline": "下一代 AI 增长操作系统，帮助企业在合成内容时代重组增长基因。",
+    "explore": "探索",
+    "connect": "连接",
+    "solutions": "解决方案",
+    "capabilities": "核心能力",
+    "cases": "成功案例",
+    "copyright": "© 2024 GXGENAI. ALL RIGHTS RESERVED.",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "security": "安全"
+  }
+}

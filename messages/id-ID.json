@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - Sistem Operasi Pemasaran Matriks AI",
+    "description": "Sistem operasi matriks lalu lintas yang didukung AI, membantu MCN, e-commerce lintas batas, dan growth hacker mengindustrialisasi dan mengotomatisasi produksi konten"
+  },
+  "nav": {
+    "features": "Fitur",
+    "solutions": "Solusi",
+    "pricing": "Harga",
+    "docs": "Dokumentasi",
+    "login": "Masuk",
+    "getStarted": "Mulai"
+  },
+  "hero": {
+    "title": "Satu link,",
+    "titleHighlight": "Pertumbuhan tanpa batas",
+    "description": "Tempel link produk → Buat matriks konten → Optimasi otomatis dengan data",
+    "descriptionLine2": "Agen Pertumbuhan AI Anda dimulai di sini"
+  },
+  "painPoints": {
+    "greeting": "Halo! Saya adalah Panduan Pertumbuhan GxgenAI. Sebelum memulai, izinkan saya bertanya: apakah bisnis Anda juga menghadapi rasa sakit pertumbuhan ini?",
+    "highCost": {
+      "title": "Biaya akuisisi pelanggan tinggi",
+      "description": "Keuntungan saluran tradisional menipis, biaya operasional melebihi profitabilitas."
+    },
+    "bottleneck": {
+      "title": "Hambatan produktivitas",
+      "description": "Produksi konten lambat dan mahal, tidak mampu mendukung cakupan jaringan penuh."
+    },
+    "slowIteration": {
+      "title": "Iterasi lambat",
+      "description": "Umpan balik data tertunda, tidak dapat menangkap tren lalu lintas yang berubah cepat."
+    }
+  },
+  "solution": {
+    "intro": "Ini adalah",
+    "highlight": "Agen Pertumbuhan AI",
+    "suffix": "Anda — memahami produk, berkembang sendiri, dan berskala tanpa batas.",
+    "understandProduct": {
+      "title": "Memahami",
+      "description": "Mengekstrak poin penjualan inti produk secara otomatis"
+    },
+    "selfIterate": {
+      "title": "Evolusi Mandiri",
+      "description": "Penyesuaian strategi real-time berdasarkan data"
+    },
+    "scalable": {
+      "title": "Dapat Diskalakan",
+      "description": "Replikasi satu klik ke semua platform"
+    },
+    "visible": {
+      "title": "Terlihat",
+      "description": "ROI yang jelas untuk setiap rupiah yang dibelanjakan"
+    }
+  },
+  "capabilities": {
+    "intro": "Didukung oleh tiga mesin inti:",
+    "aiEngine": {
+      "title": "Mesin Konten AI",
+      "subtitle": "Satu link, 100 ekspresi",
+      "description": "Ekstrak otomatis poin penjualan, buat video, gambar, dan teks dengan suara merek Anda."
+    },
+    "matrixWorkflow": {
+      "title": "Sistem Distribusi Matriks",
+      "subtitle": "Satu orang, 1000 akun",
+      "description": "Penjadwalan cerdas, publikasi massal, keterlibatan seperti manusia di semua platform."
+    },
+    "dataOptimization": {
+      "title": "Loop Optimasi Data",
+      "subtitle": "Biarkan data memutuskan",
+      "description": "Pengujian A/B real-time, pemilihan konten pemenang otomatis, maksimalkan setiap rupiah."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI diadopsi oleh para pionir di berbagai bidang. Apakah Anda salah satunya?",
+    "overseas": "Ekspansi Global",
+    "ecommerce": "Penjual E-commerce",
+    "mcn": "Agensi MCN",
+    "brand": "Pemasaran Merek"
+  },
+  "cta": {
+    "ready": "Siap menyalakan pertumbuhan Anda?",
+    "bookCall": "Jadwalkan panggilan strategi",
+    "freeTrialNote": "Uji coba gratis · Tanpa kartu kredit",
+    "trustedBy": "Dipercaya oleh 500+ tim pertumbuhan"
+  },
+  "footer": {
+    "tagline": "OS pertumbuhan AI generasi berikutnya yang membantu perusahaan mengatur ulang DNA pertumbuhan mereka di era konten sintetis.",
+    "explore": "Jelajahi",
+    "connect": "Terhubung",
+    "solutions": "Solusi",
+    "capabilities": "Fitur",
+    "cases": "Kisah Sukses",
+    "copyright": "© 2024 GXGENAI. HAK CIPTA DILINDUNGI.",
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "security": "Keamanan"
+  },
+  "demo": {
+    "intro": "Lihat bagaimana satu link menjadi 100 konten:",
+    "placeholder": "Tempel link produk Anda di sini...",
+    "generating": "Membuat...",
+    "outputLabel": "Matriks konten yang dihasilkan:",
+    "video": "Video",
+    "image": "Gambar",
+    "copy": "Teks"
+  },
+  "socialProof": {
+    "intro": "Hasil nyata dari pengguna nyata:",
+    "views": {
+      "title": "Peningkatan tayangan",
+      "description": "Merek e-commerce lintas batas di TikTok"
+    },
+    "efficiency": {
+      "title": "Output konten",
+      "description": "Produksi bulanan agensi MCN"
+    },
+    "cost": {
+      "title": "Penurunan CAC",
+      "description": "Biaya akuisisi merek DTC"
+    }
+  }
+}

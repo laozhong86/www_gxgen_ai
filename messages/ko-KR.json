@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI 매트릭스 마케팅 OS",
+    "description": "AI 기반 트래픽 매트릭스 운영 시스템. MCN, 크로스보더 이커머스, 그로스 해커의 콘텐츠 생산 산업화 및 자동화 지원"
+  },
+  "nav": {
+    "features": "핵심 기능",
+    "solutions": "솔루션",
+    "pricing": "요금제",
+    "docs": "문서",
+    "login": "로그인",
+    "getStarted": "시작하기"
+  },
+  "hero": {
+    "title": "하나의 링크로",
+    "titleHighlight": "무한 성장을",
+    "description": "상품 링크 붙여넣기 → 콘텐츠 매트릭스 생성 → 데이터로 자동 최적화",
+    "descriptionLine2": "당신의 AI 성장 에이전트가 여기서 시작됩니다"
+  },
+  "painPoints": {
+    "greeting": "안녕하세요! 저는 GxgenAI의 성장 가이드입니다. 시작하기 전에 여쭤볼게요: 귀사도 이런 '성장통'을 겪고 계신가요?",
+    "highCost": {
+      "title": "높은 고객 획득 비용",
+      "description": "기존 채널의 이점이 사라지고, 운영 비용이 수익성을 초과합니다."
+    },
+    "bottleneck": {
+      "title": "생산성 병목",
+      "description": "콘텐츠 생산이 느리고 비용이 높아 전체 네트워크 커버리지를 지원하기 어렵습니다."
+    },
+    "slowIteration": {
+      "title": "느린 전략 반복",
+      "description": "데이터 피드백이 지연되어 빠르게 변화하는 트래픽 트렌드를 포착할 수 없습니다."
+    }
+  },
+  "solution": {
+    "intro": "이것이 당신의",
+    "highlight": "AI 성장 에이전트",
+    "suffix": "—— 제품을 이해하고, 스스로 진화하며, 무한히 확장합니다.",
+    "understandProduct": {
+      "title": "제품 이해",
+      "description": "제품의 핵심 셀링 포인트 자동 추출"
+    },
+    "selfIterate": {
+      "title": "자체 진화",
+      "description": "실제 데이터 기반 실시간 전략 조정"
+    },
+    "scalable": {
+      "title": "확장 가능",
+      "description": "원클릭으로 성공 패턴을 모든 플랫폼에 복제"
+    },
+    "visible": {
+      "title": "시각화",
+      "description": "모든 예산의 ROI를 명확하게 확인"
+    }
+  },
+  "capabilities": {
+    "intro": "세 가지 핵심 엔진으로 구동:",
+    "aiEngine": {
+      "title": "AI 콘텐츠 엔진",
+      "subtitle": "하나의 링크, 100가지 표현",
+      "description": "셀링 포인트 자동 추출, 브랜드 톤으로 영상, 이미지, 카피 생성."
+    },
+    "matrixWorkflow": {
+      "title": "매트릭스 배포 시스템",
+      "subtitle": "1인이 1000개 계정 관리",
+      "description": "스마트 스케줄링, 일괄 게시, 모든 플랫폼에서 인간적인 인게이지먼트."
+    },
+    "dataOptimization": {
+      "title": "데이터 최적화 루프",
+      "subtitle": "데이터가 결정하게",
+      "description": "실시간 A/B 테스트, 승자 콘텐츠 자동 선택, 모든 비용 극대화."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI는 다양한 분야의 선구자들이 채택하고 있습니다. 당신도 그중 한 명인가요?",
+    "overseas": "해외 진출 기업",
+    "ecommerce": "이커머스 셀러",
+    "mcn": "MCN 에이전시",
+    "brand": "브랜드 마케팅"
+  },
+  "cta": {
+    "ready": "성장에 불을 붙일 준비가 되셨나요?",
+    "bookCall": "전략 콜 예약하기",
+    "freeTrialNote": "무료 체험 · 신용카드 불필요",
+    "trustedBy": "500개 이상의 성장팀이 사용 중"
+  },
+  "footer": {
+    "tagline": "차세대 AI 성장 OS. 합성 콘텐츠 시대에 기업의 성장 DNA를 재구성합니다.",
+    "explore": "탐색",
+    "connect": "연결",
+    "solutions": "솔루션",
+    "capabilities": "기능",
+    "cases": "성공 사례",
+    "copyright": "© 2024 GXGENAI. ALL RIGHTS RESERVED.",
+    "privacy": "개인정보 보호",
+    "terms": "이용약관",
+    "security": "보안"
+  },
+  "demo": {
+    "intro": "하나의 링크가 100개의 콘텐츠가 되는 과정을 확인하세요:",
+    "placeholder": "여기에 상품 링크를 붙여넣으세요...",
+    "generating": "생성 중...",
+    "outputLabel": "생성된 콘텐츠 매트릭스:",
+    "video": "영상",
+    "image": "이미지",
+    "copy": "카피"
+  },
+  "socialProof": {
+    "intro": "실제 사용자의 실제 성과:",
+    "views": {
+      "title": "조회수 증가",
+      "description": "크로스보더 이커머스 TikTok 사례"
+    },
+    "efficiency": {
+      "title": "콘텐츠 산출량",
+      "description": "MCN 에이전시 월간 생산량"
+    },
+    "cost": {
+      "title": "CAC 감소",
+      "description": "DTC 브랜드 획득 비용"
+    }
+  }
+}

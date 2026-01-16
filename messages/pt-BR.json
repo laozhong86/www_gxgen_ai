@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - Sistema operacional de marketing matricial IA",
+    "description": "Sistema operacional de matriz de tráfego alimentado por IA que ajuda MCNs, e-commerce internacional e growth hackers a industrializar e automatizar a produção de conteúdo"
+  },
+  "nav": {
+    "features": "Funcionalidades",
+    "solutions": "Soluções",
+    "pricing": "Preços",
+    "docs": "Documentação",
+    "login": "Entrar",
+    "getStarted": "Começar"
+  },
+  "hero": {
+    "title": "Um link,",
+    "titleHighlight": "Crescimento infinito",
+    "description": "Cole um link de produto → Gere matriz de conteúdo → Otimização automática com dados",
+    "descriptionLine2": "Seu Agente de Crescimento IA começa aqui"
+  },
+  "painPoints": {
+    "greeting": "Olá! Sou o guia de crescimento da GxgenAI. Antes de começar, deixe-me perguntar: seu negócio também enfrenta essas dores de crescimento?",
+    "highCost": {
+      "title": "Alto custo de aquisição",
+      "description": "Os benefícios dos canais tradicionais estão se esgotando, os custos operacionais excedem a rentabilidade."
+    },
+    "bottleneck": {
+      "title": "Gargalo de produtividade",
+      "description": "Produção de conteúdo lenta e cara, incapaz de suportar cobertura de rede completa."
+    },
+    "slowIteration": {
+      "title": "Iteração lenta",
+      "description": "Feedback de dados atrasado, incapaz de capturar tendências de tráfego que mudam rapidamente."
+    }
+  },
+  "solution": {
+    "intro": "Este é o seu",
+    "highlight": "Agente de Crescimento IA",
+    "suffix": "— entende seu produto, se auto-evolui e escala infinitamente.",
+    "understandProduct": {
+      "title": "Entende",
+      "description": "Extrai automaticamente os pontos de venda principais do produto"
+    },
+    "selfIterate": {
+      "title": "Auto-evolução",
+      "description": "Ajuste de estratégia em tempo real baseado em dados"
+    },
+    "scalable": {
+      "title": "Escalável",
+      "description": "Replicação com um clique para todas as plataformas"
+    },
+    "visible": {
+      "title": "Visível",
+      "description": "ROI claro para cada real gasto"
+    }
+  },
+  "capabilities": {
+    "intro": "Impulsionado por três motores centrais:",
+    "aiEngine": {
+      "title": "Motor de Conteúdo IA",
+      "subtitle": "Um link, 100 expressões",
+      "description": "Extração automática de pontos de venda, gera vídeos, imagens e textos com sua voz de marca."
+    },
+    "matrixWorkflow": {
+      "title": "Sistema de Distribuição Matricial",
+      "subtitle": "Uma pessoa, 1000 contas",
+      "description": "Programação inteligente, publicação em massa, engajamento humano em todas as plataformas."
+    },
+    "dataOptimization": {
+      "title": "Loop de Otimização de Dados",
+      "subtitle": "Deixe os dados decidirem",
+      "description": "Testes A/B em tempo real, seleção automática do conteúdo vencedor, maximize cada real."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI está sendo adotado por pioneiros em diferentes áreas. Você é um deles?",
+    "overseas": "Expansão global",
+    "ecommerce": "Vendedores e-commerce",
+    "mcn": "Agências MCN",
+    "brand": "Marketing de marca"
+  },
+  "cta": {
+    "ready": "Pronto para acender seu crescimento?",
+    "bookCall": "Agendar chamada estratégica",
+    "freeTrialNote": "Teste grátis · Sem cartão de crédito",
+    "trustedBy": "Mais de 500 equipes de crescimento confiam em nós"
+  },
+  "footer": {
+    "tagline": "OS de crescimento IA de próxima geração ajudando empresas a reorganizar seu DNA de crescimento na era do conteúdo sintético.",
+    "explore": "Explorar",
+    "connect": "Conectar",
+    "solutions": "Soluções",
+    "capabilities": "Funcionalidades",
+    "cases": "Casos de sucesso",
+    "copyright": "© 2024 GXGENAI. TODOS OS DIREITOS RESERVADOS.",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "security": "Segurança"
+  },
+  "demo": {
+    "intro": "Veja como um link se torna 100 conteúdos:",
+    "placeholder": "Cole seu link de produto aqui...",
+    "generating": "Gerando...",
+    "outputLabel": "Matriz de conteúdo gerada:",
+    "video": "Vídeos",
+    "image": "Imagens",
+    "copy": "Textos"
+  },
+  "socialProof": {
+    "intro": "Resultados reais de usuários reais:",
+    "views": {
+      "title": "Visualizações aumentadas",
+      "description": "Marca e-commerce transfronteiriço no TikTok"
+    },
+    "efficiency": {
+      "title": "Produção de conteúdo",
+      "description": "Produção mensal de agência MCN"
+    },
+    "cost": {
+      "title": "CAC reduzido",
+      "description": "Custo de aquisição marca DTC"
+    }
+  }
+}

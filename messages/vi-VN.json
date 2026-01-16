@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - Hệ điều hành Marketing Ma trận AI",
+    "description": "Hệ điều hành ma trận lưu lượng được hỗ trợ bởi AI, giúp MCN, thương mại điện tử xuyên biên giới và growth hacker công nghiệp hóa và tự động hóa sản xuất nội dung"
+  },
+  "nav": {
+    "features": "Tính năng",
+    "solutions": "Giải pháp",
+    "pricing": "Bảng giá",
+    "docs": "Tài liệu",
+    "login": "Đăng nhập",
+    "getStarted": "Bắt đầu"
+  },
+  "hero": {
+    "title": "Một liên kết,",
+    "titleHighlight": "Tăng trưởng vô hạn",
+    "description": "Dán liên kết sản phẩm → Tạo ma trận nội dung → Tự động tối ưu bằng dữ liệu",
+    "descriptionLine2": "Agent Tăng trưởng AI của bạn bắt đầu từ đây"
+  },
+  "painPoints": {
+    "greeting": "Xin chào! Tôi là Hướng dẫn Tăng trưởng của GxgenAI. Trước khi bắt đầu, cho phép tôi hỏi: doanh nghiệp của bạn có đang đối mặt với những nỗi đau tăng trưởng này không?",
+    "highCost": {
+      "title": "Chi phí thu hút khách hàng cao",
+      "description": "Lợi thế kênh truyền thống đang cạn kiệt, chi phí vận hành vượt quá khả năng sinh lời."
+    },
+    "bottleneck": {
+      "title": "Nút thắt năng suất",
+      "description": "Sản xuất nội dung chậm và đắt đỏ, không thể hỗ trợ phủ sóng mạng lưới toàn diện."
+    },
+    "slowIteration": {
+      "title": "Lặp lại chậm",
+      "description": "Phản hồi dữ liệu bị trì hoãn, không thể nắm bắt xu hướng lưu lượng thay đổi nhanh chóng."
+    }
+  },
+  "solution": {
+    "intro": "Đây là",
+    "highlight": "Agent Tăng trưởng AI",
+    "suffix": "của bạn — hiểu sản phẩm, tự tiến hóa và mở rộng vô hạn.",
+    "understandProduct": {
+      "title": "Hiểu sản phẩm",
+      "description": "Tự động trích xuất điểm bán hàng cốt lõi của sản phẩm"
+    },
+    "selfIterate": {
+      "title": "Tự tiến hóa",
+      "description": "Điều chỉnh chiến lược thời gian thực dựa trên dữ liệu"
+    },
+    "scalable": {
+      "title": "Mở rộng được",
+      "description": "Nhân bản một cú nhấp chuột đến tất cả nền tảng"
+    },
+    "visible": {
+      "title": "Minh bạch",
+      "description": "ROI rõ ràng cho mỗi đồng chi tiêu"
+    }
+  },
+  "capabilities": {
+    "intro": "Được dẫn dắt bởi ba động cơ cốt lõi:",
+    "aiEngine": {
+      "title": "Động cơ Nội dung AI",
+      "subtitle": "Một liên kết, 100 biểu đạt",
+      "description": "Tự động trích xuất điểm bán hàng, tạo video, hình ảnh và văn bản theo giọng thương hiệu."
+    },
+    "matrixWorkflow": {
+      "title": "Hệ thống Phân phối Ma trận",
+      "subtitle": "Một người, 1000 tài khoản",
+      "description": "Lịch đăng thông minh, đăng hàng loạt, tương tác như người thật trên mọi nền tảng."
+    },
+    "dataOptimization": {
+      "title": "Vòng lặp Tối ưu Dữ liệu",
+      "subtitle": "Để dữ liệu quyết định",
+      "description": "Thử nghiệm A/B thời gian thực, tự động chọn nội dung chiến thắng, tối đa hóa từng đồng."
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI đang được các nhà tiên phong trong các lĩnh vực khác nhau áp dụng. Bạn có phải là một trong số họ không?",
+    "overseas": "Mở rộng toàn cầu",
+    "ecommerce": "Người bán thương mại điện tử",
+    "mcn": "Đại lý MCN",
+    "brand": "Marketing thương hiệu"
+  },
+  "cta": {
+    "ready": "Sẵn sàng thổi bùng tăng trưởng?",
+    "bookCall": "Đặt lịch cuộc gọi chiến lược",
+    "freeTrialNote": "Dùng thử miễn phí · Không cần thẻ tín dụng",
+    "trustedBy": "Hơn 500 đội ngũ tăng trưởng tin tưởng"
+  },
+  "footer": {
+    "tagline": "Hệ điều hành tăng trưởng AI thế hệ mới giúp doanh nghiệp tái tổ chức DNA tăng trưởng trong kỷ nguyên nội dung tổng hợp.",
+    "explore": "Khám phá",
+    "connect": "Kết nối",
+    "solutions": "Giải pháp",
+    "capabilities": "Tính năng",
+    "cases": "Câu chuyện thành công",
+    "copyright": "© 2024 GXGENAI. MỌI QUYỀN ĐƯỢC BẢO LƯU.",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "security": "Bảo mật"
+  },
+  "demo": {
+    "intro": "Xem cách một liên kết trở thành 100 nội dung:",
+    "placeholder": "Dán liên kết sản phẩm vào đây...",
+    "generating": "Đang tạo...",
+    "outputLabel": "Ma trận nội dung đã tạo:",
+    "video": "Video",
+    "image": "Hình ảnh",
+    "copy": "Văn bản"
+  },
+  "socialProof": {
+    "intro": "Kết quả thực từ người dùng thực:",
+    "views": {
+      "title": "Lượt xem tăng",
+      "description": "Thương hiệu TMĐT xuyên biên giới trên TikTok"
+    },
+    "efficiency": {
+      "title": "Sản lượng nội dung",
+      "description": "Sản lượng hàng tháng của đại lý MCN"
+    },
+    "cost": {
+      "title": "Giảm CAC",
+      "description": "Chi phí thu hút thương hiệu DTC"
+    }
+  }
+}

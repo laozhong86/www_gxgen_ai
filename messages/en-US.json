@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "GxgenAI - AI Matrix Marketing OS",
+    "description": "AI-powered traffic matrix operating system that helps MCNs, cross-border e-commerce, and growth hackers achieve industrialized and automated content production"
+  },
+  "nav": {
+    "features": "Features",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "login": "Login",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "One Link,",
+    "titleHighlight": "Infinite Growth",
+    "description": "Paste a product link → Generate content matrix → Auto-optimize with data",
+    "descriptionLine2": "Your AI Growth Agent starts here"
+  },
+  "painPoints": {
+    "greeting": "Hello! I'm GxgenAI's Growth Guide. Before we begin, let me ask: Is your business also facing these \"growth pains\"?",
+    "highCost": {
+      "title": "High CAC",
+      "description": "Traditional channel dividends are drying up, operational costs exceed profitability."
+    },
+    "bottleneck": {
+      "title": "Productivity Bottleneck",
+      "description": "Slow and expensive content production, unable to support full-network coverage."
+    },
+    "slowIteration": {
+      "title": "Slow Iteration",
+      "description": "Delayed data feedback, unable to capture rapidly changing traffic trends."
+    }
+  },
+  "demo": {
+    "intro": "See how one link becomes 100 pieces of content:",
+    "placeholder": "Paste your product link here...",
+    "generating": "Generating...",
+    "outputLabel": "Generated content matrix:",
+    "video": "Videos",
+    "image": "Images",
+    "copy": "Copies"
+  },
+  "solution": {
+    "intro": "This is your",
+    "highlight": "AI Growth Agent",
+    "suffix": "— understands your product, self-iterates, and scales infinitely.",
+    "understandProduct": {
+      "title": "Understands",
+      "description": "Auto-extracts core product selling points"
+    },
+    "selfIterate": {
+      "title": "Self-Iterates",
+      "description": "Real-time strategy adjustment based on data"
+    },
+    "scalable": {
+      "title": "Scales",
+      "description": "One-click replication to all platforms"
+    },
+    "visible": {
+      "title": "Visible",
+      "description": "Clear ROI for every dollar spent"
+    }
+  },
+  "capabilities": {
+    "intro": "Powered by three core engines:",
+    "aiEngine": {
+      "title": "AI Content Engine",
+      "subtitle": "One link, 100 expressions",
+      "description": "Auto-extract selling points, generate videos, images, and copy in your brand voice."
+    },
+    "matrixWorkflow": {
+      "title": "Matrix Distribution",
+      "subtitle": "One person, 1000 accounts",
+      "description": "Smart scheduling, batch publishing, human-like engagement across all platforms."
+    },
+    "dataOptimization": {
+      "title": "Data Optimization Loop",
+      "subtitle": "Let data decide",
+      "description": "Real-time A/B testing, auto-select winning content, maximize every dollar."
+    }
+  },
+  "socialProof": {
+    "intro": "Real results from real users:",
+    "views": {
+      "title": "Views Increased",
+      "description": "Cross-border e-commerce brand on TikTok"
+    },
+    "efficiency": {
+      "title": "Content Output",
+      "description": "MCN agency monthly production"
+    },
+    "cost": {
+      "title": "CAC Reduced",
+      "description": "DTC brand acquisition cost"
+    }
+  },
+  "targetAudience": {
+    "intro": "GxgenAI is being adopted by pioneers in different fields. Are you one of them?",
+    "overseas": "Global Expansion",
+    "ecommerce": "E-commerce Sellers",
+    "mcn": "MCN Agencies",
+    "brand": "Brand Marketing"
+  },
+  "cta": {
+    "ready": "Ready to ignite your growth?",
+    "bookCall": "Book Strategy Call",
+    "freeTrialNote": "Free trial · No credit card required",
+    "trustedBy": "Trusted by 500+ growth teams"
+  },
+  "footer": {
+    "tagline": "Next-gen AI Growth OS helping enterprises reorganize growth DNA in the age of synthetic content.",
+    "explore": "Explore",
+    "connect": "Connect",
+    "solutions": "Solutions",
+    "capabilities": "Capabilities",
+    "cases": "Case Studies",
+    "copyright": "© 2024 GXGENAI. ALL RIGHTS RESERVED.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "security": "Security"
+  }
+}
