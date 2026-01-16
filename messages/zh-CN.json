@@ -39,7 +39,12 @@
     "outputLabel": "生成的内容矩阵：",
     "video": "视频",
     "image": "图片",
-    "copy": "文案"
+    "copy": "文案",
+    "supportedLinks": "支持淘宝、京东、亚马逊、Shopify 等 50+ 电商平台链接",
+    "tryExample": "试试示例：",
+    "exampleEcommerce": "电商产品",
+    "exampleCrossBorder": "跨境案例",
+    "exampleBrand": "品牌产品"
   },
   "solution": {
     "intro": "这就是你的",

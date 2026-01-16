@@ -9,6 +9,13 @@ const outputItems = [
   { icon: FileText, label: 'copy', count: 48 },
 ];
 
+// 示例链接配置
+const exampleLinks = [
+  { key: 'exampleEcommerce', url: 'https://www.amazon.com/dp/B09V3KXJPB' },
+  { key: 'exampleCrossBorder', url: 'https://detail.tmall.com/item.htm?id=123456' },
+  { key: 'exampleBrand', url: 'https://www.shopify.com/store/product-demo' },
+];
+
 type DemoSectionProps = {
   translations: {
     placeholder: string;
@@ -17,6 +24,11 @@ type DemoSectionProps = {
     video: string;
     image: string;
     copy: string;
+    supportedLinks: string;
+    tryExample: string;
+    exampleEcommerce: string;
+    exampleCrossBorder: string;
+    exampleBrand: string;
   };
 };
 
@@ -24,6 +36,7 @@ export function DemoSection({ translations }: DemoSectionProps) {
   const [isGenerating, setIsGenerating] = useState(false);
   const [showOutput, setShowOutput] = useState(false);
   const [inputValue, setInputValue] = useState('');
+  const [isFocused, setIsFocused] = useState(false);
 
   const handleGenerate = () => {
     if (!inputValue.trim()) return;
@@ -34,6 +47,12 @@ export function DemoSection({ translations }: DemoSectionProps) {
       setIsGenerating(false);
       setShowOutput(true);
     }, 2000);
+  };
+
+  // 点击示例链接
+  const handleExampleClick = (url: string) => {
+    setInputValue(url);
+    setShowOutput(false);
   };
 
   // 自动演示
@@ -56,16 +75,24 @@ export function DemoSection({ translations }: DemoSectionProps) {
     <div className="pl-14">
       <div className="frosted-card p-6 rounded-[32px] glass overflow-hidden">
         {/* 输入区 */}
-        <div className="flex gap-3 mb-6">
+        <div className="flex gap-3 mb-3">
           <div className="flex-1 relative">
             <Link2 className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
             <input
               type="text"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
+              onFocus={() => setIsFocused(true)}
+              onBlur={() => setIsFocused(false)}
               placeholder={translations.placeholder}
               className="w-full pl-12 pr-4 py-4 rounded-2xl bg-white/80 border border-black/10 focus:border-black/30 focus:outline-none transition-colors text-sm"
             />
+            {/* 支持的链接类型提示 */}
+            {isFocused && !inputValue && (
+              <div className="absolute left-0 right-0 top-full mt-2 px-4 py-2 bg-black/80 text-white text-xs rounded-xl animate-fade-in z-10">
+                {translations.supportedLinks}
+              </div>
+            )}
           </div>
           <button
             onClick={handleGenerate}
@@ -76,6 +103,22 @@ export function DemoSection({ translations }: DemoSectionProps) {
             {isGenerating ? translations.generating : 'Generate'}
           </button>
         </div>
+
+        {/* 示例链接按钮 - Wayfinders */}
+        {!showOutput && !isGenerating && (
+          <div className="flex items-center gap-2 mb-6 flex-wrap">
+            <span className="text-xs text-gray-500">{translations.tryExample}</span>
+            {exampleLinks.map(({ key, url }) => (
+              <button
+                key={key}
+                onClick={() => handleExampleClick(url)}
+                className="px-3 py-1.5 text-xs bg-black/5 hover:bg-black/10 rounded-full transition-colors text-gray-700 hover:text-black"
+              >
+                {translations[key as keyof typeof translations]}
+              </button>
+            ))}
+          </div>
+        )}
 
         {/* 生成动画 */}
         {isGenerating && (

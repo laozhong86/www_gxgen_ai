@@ -1,86 +1,59 @@
-"use client";
-
-import React, { useRef, useCallback, useEffect } from "react";
-import Image from "next/image";
-
 type Props = {
   children: React.ReactNode;
 };
 
-export function TopBackdrop({ children }: Props) {
-  const containerRef = useRef<HTMLElement>(null);
-  const maskRef = useRef<HTMLDivElement>(null);
-  const rafRef = useRef<number>(0);
-  const isHoveringRef = useRef(false);
-
-  // 使用 RAF 节流的鼠标移动处理，直接操作 DOM，避免 React 重渲染
-  const handleMouseMove = useCallback((e: React.MouseEvent<HTMLElement>) => {
-    if (!containerRef.current || !maskRef.current || !isHoveringRef.current) return;
+// 内联脚本：在 HTML 解析时立即执行，不依赖 React hydration
+const inlineScript = `
+(function() {
+  var container = document.getElementById('hero-backdrop');
+  var mask = document.getElementById('hero-mask');
+  if (!container || !mask) return;
+  
+  var isHovering = false;
+  var rafId = 0;
+  
+  container.addEventListener('mouseenter', function() {
+    isHovering = true;
+    mask.dataset.hovering = 'true';
+  });
+  
+  container.addEventListener('mouseleave', function() {
+    isHovering = false;
+    mask.dataset.hovering = 'false';
+  });
+  
+  container.addEventListener('mousemove', function(e) {
+    if (!isHovering) return;
+    if (rafId) cancelAnimationFrame(rafId);
     
-    // 取消上一个 RAF，避免累积
-    if (rafRef.current) {
-      cancelAnimationFrame(rafRef.current);
-    }
+    var rect = container.getBoundingClientRect();
+    var x = e.clientX - rect.left;
+    var y = e.clientY - rect.top;
     
-    const rect = containerRef.current.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top;
-    
-    // 使用 RAF 更新 CSS 变量
-    rafRef.current = requestAnimationFrame(() => {
-      if (maskRef.current) {
-        maskRef.current.style.setProperty('--mask-x', `${x}px`);
-        maskRef.current.style.setProperty('--mask-y', `${y}px`);
-      }
+    rafId = requestAnimationFrame(function() {
+      mask.style.setProperty('--mask-x', x + 'px');
+      mask.style.setProperty('--mask-y', y + 'px');
     });
-  }, []);
+  });
+})();
+`;
 
-  const handleMouseEnter = useCallback(() => {
-    isHoveringRef.current = true;
-    if (maskRef.current) {
-      maskRef.current.dataset.hovering = 'true';
-    }
-  }, []);
-
-  const handleMouseLeave = useCallback(() => {
-    isHoveringRef.current = false;
-    if (maskRef.current) {
-      maskRef.current.dataset.hovering = 'false';
-    }
-  }, []);
-
-  // 清理 RAF
-  useEffect(() => {
-    return () => {
-      if (rafRef.current) {
-        cancelAnimationFrame(rafRef.current);
-      }
-    };
-  }, []);
-
+export function TopBackdrop({ children }: Props) {
   return (
     <section
-      ref={containerRef}
+      id="hero-backdrop"
       className="relative overflow-hidden min-h-screen"
-      onMouseMove={handleMouseMove}
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
     >
-      {/* 底层背景图 */}
-      <div className="absolute inset-0" aria-hidden="true">
-        <Image
-          src="/images/hero-bg.webp"
-          alt=""
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover object-center"
-        />
-      </div>
+      {/* 底层背景：CSS 即时显示 + 图片异步加载 */}
+      <div 
+        className="absolute inset-0 bg-[#0a1015] bg-cover bg-center"
+        style={{ backgroundImage: 'url(/images/hero-bg.webp)' }}
+        aria-hidden="true"
+      />
       
-      {/* 黑色遮罩层 + 鼠标跟随圆形透明区域 - 使用 CSS 变量实现 */}
+      {/* 黑色遮罩层 + 鼠标跟随圆形透明区域 */}
       <div
-        ref={maskRef}
+        id="hero-mask"
         data-hovering="false"
         className="absolute inset-0 bg-black/60 backdrop-blur-xl will-change-[mask-image] 
           [--mask-x:0px] [--mask-y:0px]
@@ -91,6 +64,9 @@ export function TopBackdrop({ children }: Props) {
 
       {/* 内容置于最上层 */}
       <div className="relative z-10 min-h-screen flex flex-col">{children}</div>
+      
+      {/* 内联脚本：HTML 解析后立即执行 */}
+      <script dangerouslySetInnerHTML={{ __html: inlineScript }} />
     </section>
   );
 }

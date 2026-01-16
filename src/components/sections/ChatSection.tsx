@@ -20,6 +20,11 @@ export async function ChatSection() {
     video: t('demo.video'),
     image: t('demo.image'),
     copy: t('demo.copy'),
+    supportedLinks: t('demo.supportedLinks'),
+    tryExample: t('demo.tryExample'),
+    exampleEcommerce: t('demo.exampleEcommerce'),
+    exampleCrossBorder: t('demo.exampleCrossBorder'),
+    exampleBrand: t('demo.exampleBrand'),
   };
 
   return (

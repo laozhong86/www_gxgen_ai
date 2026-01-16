@@ -39,7 +39,12 @@
     "outputLabel": "Generated content matrix:",
     "video": "Videos",
     "image": "Images",
-    "copy": "Copies"
+    "copy": "Copies",
+    "supportedLinks": "Supports Amazon, Shopify, Taobao, and 50+ other e-commerce platforms",
+    "tryExample": "Try an example:",
+    "exampleEcommerce": "E-commerce Product",
+    "exampleCrossBorder": "Cross-border Case",
+    "exampleBrand": "Brand Product"
   },
   "solution": {
     "intro": "This is your",
