@@ -1,5 +1,8 @@
 [phases.install]
-cmds = ['npm ci']
+cmds = [
+  'npm ci',
+  'npm i --no-save @parcel/watcher-linux-x64-glibc || true'
+]
 
 [phases.build]
 cmds = ['npm run build']
