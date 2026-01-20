@@ -15,6 +15,7 @@ require() {
 require railway
 require node
 require npm
+require git
 
 # 切换到项目根目录（脚本位于 scripts/）
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -79,8 +80,46 @@ echo "✓ 已切换"
 railway status || true
 echo ""
 
-# 步骤 3：展示将要部署的提交信息（只读）
-echo "[步骤 3/4] 提交快照（只读）："
+# 步骤 3：质量检查（提交前必跑）
+echo "[步骤 3/6] 质量检查（lint/check/test）..."
+npm run lint
+npm run check
+npm run test:unit
+echo "✓ 质量检查通过"
+echo ""
+
+# 步骤 4：检查并提交本地变更
+echo "[步骤 4/6] 检查本地变更并提交..."
+has_changes=false
+if ! git diff --quiet; then
+  has_changes=true
+fi
+if ! git diff --cached --quiet; then
+  has_changes=true
+fi
+if [ -n "$(git ls-files --others --exclude-standard)" ]; then
+  has_changes=true
+fi
+
+if [ "$has_changes" = true ]; then
+  git status -sb
+  default_msg="chore: deploy www"
+  if [ -t 0 ]; then
+    read -r -p "请输入提交信息（默认：${default_msg}）: " commit_msg
+  else
+    commit_msg="${default_msg}"
+  fi
+  commit_msg="${commit_msg:-$default_msg}"
+  git add -A
+  git commit -m "${commit_msg}" -m "Co-Authored-By: Warp <agent@warp.dev>"
+  echo "✓ 已提交"
+else
+  echo "无本地变更，跳过提交"
+fi
+echo ""
+
+# 步骤 5：展示将要部署的提交信息（只读）
+echo "[步骤 5/6] 提交快照（只读）："
 branch="$(git branch --show-current 2>/dev/null || echo 'unknown')"
 commit="$(git log -1 --oneline 2>/dev/null || echo 'unknown')"
 echo "- 分支: ${branch}"
@@ -88,8 +127,8 @@ echo "- 提交: ${commit}"
 echo "- 项目: website2 (Next.js 官网)"
 echo ""
 
-# 步骤 4：执行部署
-echo "[步骤 4/4] 正在部署到 Railway..."
+# 步骤 6：执行部署
+echo "[步骤 6/6] 正在部署到 Railway..."
 echo "执行命令: railway up"
 echo ""
 railway up

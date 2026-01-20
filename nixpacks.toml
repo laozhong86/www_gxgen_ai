@@ -1,7 +1,8 @@
 [phases.install]
 cmds = [
   'npm ci',
-  'npm i --no-save @parcel/watcher-linux-x64-glibc || true'
+  'npm i --no-save @parcel/watcher-linux-x64-glibc || true',
+  'npm i --no-save lightningcss-linux-x64-gnu || true'
 ]
 
 [phases.build]
