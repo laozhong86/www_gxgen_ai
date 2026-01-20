@@ -1,0 +1,16 @@
+# Dependencies (Railway will install fresh)
+node_modules/
+
+# Build output (Railway will build fresh)
+.next/
+out/
+
+# Development files
+*.log
+.env*.local
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
