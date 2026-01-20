@@ -41,6 +41,7 @@
     "@swc/core-linux-x64-gnu": "1.15.8",
     "@swc/core-linux-x64-musl": "1.15.8",
     "lightningcss-linux-x64-gnu": "1.30.2",
-    "lightningcss-linux-x64-musl": "1.30.2"
+    "lightningcss-linux-x64-musl": "1.30.2",
+    "@parcel/watcher-linux-x64-glibc": "2.5.0"
   }
 }
