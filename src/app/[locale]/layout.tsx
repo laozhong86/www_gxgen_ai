@@ -46,7 +46,11 @@ type Props = {
   params: Promise<{ locale: string }>;
 };
 
-export function generateStaticParams() {
+
+// 临时强制动态渲染以修复 "Page changed from static to dynamic" 错误
+export const dynamic = 'force-dynamic';
+
+export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
