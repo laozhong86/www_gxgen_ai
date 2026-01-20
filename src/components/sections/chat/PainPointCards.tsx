@@ -1,17 +1,18 @@
 import { getTranslations } from 'next-intl/server';
-import { TrendingDown, Gauge, BarChart3 } from 'lucide-react';
+import { FileX, Repeat, ShieldAlert, CreditCard } from 'lucide-react';
 
 export async function PainPointCards() {
   const t = await getTranslations('painPoints');
 
   const painPoints = [
-    { icon: TrendingDown, key: 'highCost' },
-    { icon: Gauge, key: 'bottleneck' },
-    { icon: BarChart3, key: 'slowIteration' },
+    { icon: FileX, key: 'contentStarvation' },
+    { icon: Repeat, key: 'inefficientWorkflow' },
+    { icon: ShieldAlert, key: 'banTrap' },
+    { icon: CreditCard, key: 'subscriptionTrap' },
   ] as const;
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pl-14">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 pl-14">
       {painPoints.map(({ icon: Icon, key }) => (
         <div
           key={key}

@@ -28,14 +28,23 @@ RAILWAY_ENVIRONMENT="219807da-1d91-45c0-b3a0-926fde1f5c86"
 RAILWAY_SERVICE="7103e74a-fee8-4814-a391-4bc05ffe3773"
 
 # 代理配置（中国大陆网络环境需要）
-# Surge 默认 HTTP 代理端口为 8234
-PROXY_ADDR="127.0.0.1:8234"
-if nc -z 127.0.0.1 8234 2>/dev/null; then
-  export HTTPS_PROXY="http://${PROXY_ADDR}"
-  export HTTP_PROXY="http://${PROXY_ADDR}"
-  PROXY_STATUS="使用 HTTP_PROXY=http://${PROXY_ADDR}"
-else
+# Railway CLI 使用 SOCKS5 代理可绕过 HTTPS MITM 证书问题 (UnknownIssuer)
+# Surge 默认 SOCKS5 端口为 6153
+SOCKS_PORT="6153"
+HTTP_PORT="8234"
+if nc -z 127.0.0.1 "${SOCKS_PORT}" 2>/dev/null; then
+  # 优先使用 SOCKS5 代理（绕过 TLS 证书校验问题）
   unset HTTP_PROXY HTTPS_PROXY
+  export ALL_PROXY="socks5h://127.0.0.1:${SOCKS_PORT}"
+  PROXY_STATUS="使用 ALL_PROXY=socks5h://127.0.0.1:${SOCKS_PORT}"
+elif nc -z 127.0.0.1 "${HTTP_PORT}" 2>/dev/null; then
+  # 回退到 HTTP 代理
+  export HTTPS_PROXY="http://127.0.0.1:${HTTP_PORT}"
+  export HTTP_PROXY="http://127.0.0.1:${HTTP_PORT}"
+  unset ALL_PROXY
+  PROXY_STATUS="使用 HTTP_PROXY=http://127.0.0.1:${HTTP_PORT}（可能遇到证书问题）"
+else
+  unset HTTP_PROXY HTTPS_PROXY ALL_PROXY
   PROXY_STATUS="未检测到代理，直连模式"
 fi
 

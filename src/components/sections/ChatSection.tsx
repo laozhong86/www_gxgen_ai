@@ -19,12 +19,14 @@ export async function ChatSection() {
     outputLabel: t('demo.outputLabel'),
     video: t('demo.video'),
     image: t('demo.image'),
-    copy: t('demo.copy'),
+    account: t('demo.account'),
     supportedLinks: t('demo.supportedLinks'),
     tryExample: t('demo.tryExample'),
     exampleEcommerce: t('demo.exampleEcommerce'),
-    exampleCrossBorder: t('demo.exampleCrossBorder'),
+    exampleSaas: t('demo.exampleSaas'),
     exampleBrand: t('demo.exampleBrand'),
+    startGenerating: t('demo.startGenerating'),
+    tryAnother: t('demo.tryAnother'),
   };
 
   return (

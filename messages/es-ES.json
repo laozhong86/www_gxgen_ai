@@ -103,7 +103,14 @@
     "outputLabel": "Matriz de contenido generada:",
     "video": "Videos",
     "image": "Imágenes",
-    "copy": "Textos"
+    "copy": "Textos",
+    "supportedLinks": "Supports Amazon, Shopify, and 50+ e-commerce platforms",
+    "tryExample": "Try example:",
+    "exampleEcommerce": "E-commerce",
+    "exampleCrossBorder": "Cross-border",
+    "exampleBrand": "Brand",
+    "startGenerating": "Start Generating",
+    "tryAnother": "Try another"
   },
   "socialProof": {
     "intro": "Resultados reales de usuarios reales:",

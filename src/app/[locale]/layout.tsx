@@ -29,6 +29,8 @@ const notoSerifSC = Noto_Serif_SC({
   subsets: ['latin'], // 注意：Google Fonts 的 Noto Serif SC 在 subsets 仅包含 latin，中文字符是按需加载的
   weight: ['400', '500', '600', '700', '900'],
   display: 'swap',
+  preload: false, // 禁用预加载，防止构建时下载失败
+  fallback: ['serif'], // 网络问题时回退到系统字体
 });
 
 // 英文品牌字体 - Albert Sans (参考 pippit.ai)

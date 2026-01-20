@@ -103,7 +103,14 @@
     "outputLabel": "生成的內容矩陣：",
     "video": "影片",
     "image": "圖片",
-    "copy": "文案"
+    "copy": "文案",
+    "supportedLinks": "Supports Amazon, Shopify, and 50+ e-commerce platforms",
+    "tryExample": "Try example:",
+    "exampleEcommerce": "E-commerce",
+    "exampleCrossBorder": "Cross-border",
+    "exampleBrand": "Brand",
+    "startGenerating": "Start Generating",
+    "tryAnother": "Try another"
   },
   "socialProof": {
     "intro": "真實用戶的增長數據：",

@@ -60,6 +60,7 @@ export function TopBackdrop({ children }: Props) {
           data-[hovering=true]:[mask-image:radial-gradient(circle_240px_at_var(--mask-x)_var(--mask-y),transparent_0%,black_100%)]
           data-[hovering=true]:[-webkit-mask-image:radial-gradient(circle_240px_at_var(--mask-x)_var(--mask-y),transparent_0%,black_100%)]"
         aria-hidden
+        suppressHydrationWarning
       />
 
       {/* 内容置于最上层 */}

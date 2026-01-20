@@ -12,24 +12,28 @@
     "getStarted": "Get Started"
   },
   "hero": {
-    "title": "One Link,",
-    "titleHighlight": "Infinite Growth",
-    "description": "Paste a product link → Generate content matrix → Auto-optimize with data",
-    "descriptionLine2": "Your AI Growth Agent starts here"
+    "title": "Get Millions of Global Views Daily",
+    "titleHighlight": "No Expensive Editing Team Needed",
+    "description": "First AI Traffic OS Driven by Global Social Media Data",
+    "descriptionLine2": "No Ban Worries · Say Goodbye to Inefficient Workflows"
   },
   "painPoints": {
-    "greeting": "Hello! I'm GxgenAI's Growth Guide. Before we begin, let me ask: Is your business also facing these \"growth pains\"?",
-    "highCost": {
-      "title": "High CAC",
-      "description": "Traditional channel dividends are drying up, operational costs exceed profitability."
+    "greeting": "Are you also facing these growth challenges?",
+    "contentStarvation": {
+      "title": "Content Starvation",
+      "description": "Staring at a blank screen, not knowing what to post."
     },
-    "bottleneck": {
-      "title": "Productivity Bottleneck",
-      "description": "Slow and expensive content production, unable to support full-network coverage."
+    "inefficientWorkflow": {
+      "title": "Inefficient Workflow",
+      "description": "10 editors can't fill 100 accounts manually."
     },
-    "slowIteration": {
-      "title": "Slow Iteration",
-      "description": "Delayed data feedback, unable to capture rapidly changing traffic trends."
+    "banTrap": {
+      "title": "Ban Trap",
+      "description": "Cheap VPNs and low-quality content lead to Shadowbans."
+    },
+    "subscriptionTrap": {
+      "title": "Subscription Trap",
+      "description": "Switching between tools and paying multiple bills."
     }
   },
   "demo": {
@@ -38,51 +42,49 @@
     "generating": "Generating...",
     "outputLabel": "Generated content matrix:",
     "video": "Videos",
-    "image": "Images",
-    "copy": "Copies",
-    "supportedLinks": "Supports Amazon, Shopify, Taobao, and 50+ other e-commerce platforms",
-    "tryExample": "Try an example:",
-    "exampleEcommerce": "E-commerce Product",
-    "exampleCrossBorder": "Cross-border Case",
-    "exampleBrand": "Brand Product"
+    "image": "Posts",
+    "account": "Accounts",
+    "supportedLinks": "Supports Amazon, Shopify, eBay, and 50+ other e-commerce platforms",
+    "tryExample": "Covered Scenarios:",
+    "exampleEcommerce": "E-commerce",
+    "exampleSaas": "SaaS & Software",
+    "exampleBrand": "Brand Awareness",
+    "startGenerating": "Start Generating Full Content",
+    "tryAnother": "Try another"
   },
   "solution": {
-    "intro": "This is your",
-    "highlight": "AI Growth Agent",
-    "suffix": "— understands your product, self-iterates, and scales infinitely.",
-    "understandProduct": {
-      "title": "Understands",
-      "description": "Auto-extracts core product selling points"
+    "intro": "Stop relying on luck, embrace GxgenAI's",
+    "highlight": "Industrial Data Flywheel",
+    "suffix": "— The more you use it, the smarter it gets.",
+    "structuredProduction": {
+      "title": "Forget Inspiration",
+      "description": "Hook + Narrative + Visual + CTA structured production."
     },
-    "selfIterate": {
-      "title": "Self-Iterates",
-      "description": "Real-time strategy adjustment based on data"
+    "dataEvolution": {
+      "title": "Data-Driven Evolution",
+      "description": "Reverse engineering global viral hits for self-evolution."
     },
-    "scalable": {
-      "title": "Scales",
-      "description": "One-click replication to all platforms"
-    },
-    "visible": {
-      "title": "Visible",
-      "description": "Clear ROI for every dollar spent"
+    "riskReversal": {
+      "title": "Risk Reversal",
+      "description": "Hosted accounts + Anti-association environment."
     }
   },
   "capabilities": {
-    "intro": "Powered by three core engines:",
-    "aiEngine": {
-      "title": "AI Content Engine",
-      "subtitle": "One link, 100 expressions",
-      "description": "Auto-extract selling points, generate videos, images, and copy in your brand voice."
+    "intro": "Hire your 24/7 Digital Employee Team:",
+    "editor": {
+      "title": "AI Batch Editor",
+      "subtitle": "Replaces Manual Editing",
+      "description": "Generate variations in milliseconds, cutting costs by 80%."
     },
-    "matrixWorkflow": {
-      "title": "Matrix Distribution",
-      "subtitle": "One person, 1000 accounts",
-      "description": "Smart scheduling, batch publishing, human-like engagement across all platforms."
+    "manager": {
+      "title": "Distribution Manager",
+      "subtitle": "Automated Scheduling",
+      "description": "One person manages hundreds of accounts effortlessly."
     },
-    "dataOptimization": {
-      "title": "Data Optimization Loop",
-      "subtitle": "Let data decide",
-      "description": "Real-time A/B testing, auto-select winning content, maximize every dollar."
+    "analyst": {
+      "title": "Growth Analyst",
+      "subtitle": "ROI Driven Decisions",
+      "description": "Aggregate cross-platform data for actionable insights."
     }
   },
   "socialProof": {

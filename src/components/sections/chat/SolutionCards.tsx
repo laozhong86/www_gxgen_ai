@@ -4,14 +4,13 @@ export async function SolutionCards() {
   const t = await getTranslations('solution');
 
   const solutions = [
-    { key: 'understandProduct' },
-    { key: 'selfIterate' },
-    { key: 'scalable' },
-    { key: 'visible' },
+    { key: 'structuredProduction' },
+    { key: 'dataEvolution' },
+    { key: 'riskReversal' },
   ] as const;
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-3 pl-14">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pl-14">
       {solutions.map(({ key }) => (
         <div
           key={key}

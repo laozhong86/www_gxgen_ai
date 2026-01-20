@@ -1,13 +1,13 @@
 import { getTranslations } from 'next-intl/server';
-import { Cpu, Network, LineChart } from 'lucide-react';
+import { Film, Share2, LineChart } from 'lucide-react';
 
 export async function CapabilityCards() {
   const t = await getTranslations('capabilities');
 
   const capabilities = [
-    { icon: Cpu, key: 'aiEngine', gradient: 'from-violet-500/10 to-violet-500/5' },
-    { icon: Network, key: 'matrixWorkflow', gradient: 'from-blue-500/10 to-blue-500/5' },
-    { icon: LineChart, key: 'dataOptimization', gradient: 'from-emerald-500/10 to-emerald-500/5' },
+    { icon: Film, key: 'editor', gradient: 'from-violet-500/10 to-violet-500/5' },
+    { icon: Share2, key: 'manager', gradient: 'from-blue-500/10 to-blue-500/5' },
+    { icon: LineChart, key: 'analyst', gradient: 'from-emerald-500/10 to-emerald-500/5' },
   ] as const;
 
   return (

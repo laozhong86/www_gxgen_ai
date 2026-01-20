@@ -12,24 +12,28 @@
     "getStarted": "立即开始"
   },
   "hero": {
-    "title": "一个链接",
-    "titleHighlight": "无限增长",
-    "description": "粘贴产品链接 → 生成内容矩阵 → 数据驱动自动优化",
-    "descriptionLine2": "你的 AI 增长AGENT，从这里开始"
+    "title": "每日获取百万级海外曝光",
+    "titleHighlight": "无需组建昂贵的剪辑团队",
+    "description": "首个基于全球社媒数据驱动的 AI 流量操作系统",
+    "descriptionLine2": "不必担心账号封禁 · 彻底告别低效搬运"
   },
   "painPoints": {
-    "greeting": "你好！我是 GxgenAI 的增长向导。在开始前，我想问问：你的业务是否也正面临这些增长之痛？",
-    "highCost": {
-      "title": "获客成本极高",
-      "description": "传统渠道红利见底，运营成本超出盈利能力。"
+    "greeting": "你是否也正面临这些增长困境？",
+    "contentStarvation": {
+      "title": "素材荒",
+      "description": "每天盯着空白屏幕，不知道该发什么内容"
     },
-    "bottleneck": {
-      "title": "生产力瓶颈",
-      "description": "内容产出速度慢、成本高，难以支撑全网覆盖。"
+    "inefficientWorkflow": {
+      "title": "低效搬运",
+      "description": "靠人工混剪，10 个人一个月也铺不满 100 个账号"
     },
-    "slowIteration": {
-      "title": "策略迭代慢",
-      "description": "数据反馈滞后，无法捕捉瞬息万变的流量趋势。"
+    "banTrap": {
+      "title": "封号陷阱",
+      "description": "使用廉价 VPN 和低质素材，导致账号频繁限流"
+    },
+    "subscriptionTrap": {
+      "title": "订阅陷阱",
+      "description": "在剪辑、调度、分析工具间反复切换，支付多份账单"
     }
   },
   "demo": {
@@ -38,51 +42,49 @@
     "generating": "生成中...",
     "outputLabel": "生成的内容矩阵：",
     "video": "视频",
-    "image": "图片",
-    "copy": "文案",
-    "supportedLinks": "支持淘宝、京东、亚马逊、Shopify 等 50+ 电商平台链接",
-    "tryExample": "试试示例：",
+    "image": "图文",
+    "account": "账号数",
+    "supportedLinks": "支持 Amazon、Shopify、eBay 等 50+ 电商平台链接",
+    "tryExample": "覆盖场景：",
     "exampleEcommerce": "电商产品",
-    "exampleCrossBorder": "跨境案例",
-    "exampleBrand": "品牌产品"
+    "exampleSaas": "软件服务",
+    "exampleBrand": "品牌曝光",
+    "startGenerating": "开始生成完整内容",
+    "tryAnother": "换一个"
   },
   "solution": {
-    "intro": "这就是你的",
-    "highlight": "AI 增长代理",
-    "suffix": "—— 懂你的产品，自我迭代，无限扩展。",
-    "understandProduct": {
-      "title": "懂产品",
-      "description": "自动提取产品传播核心爽点"
+    "intro": "告别灵感依赖，拥抱 GxgenAI 的",
+    "highlight": "工业化数据飞轮",
+    "suffix": "—— 越用越懂你的增长机器。",
+    "structuredProduction": {
+      "title": "不再相信灵感",
+      "description": "Hook+叙事+视觉+CTA 工业化拆解，爆款逆向工程"
     },
-    "selfIterate": {
-      "title": "自迭代",
-      "description": "基于真实数据实时调整策略"
+    "dataEvolution": {
+      "title": "数据驱动进化",
+      "description": "基于全球社媒数据，内容质量随飞轮自我进化"
     },
-    "scalable": {
-      "title": "规模化",
-      "description": "一键复刻成功路径至全平台"
-    },
-    "visible": {
-      "title": "可视化",
-      "description": "每一分预算的 ROI 清晰可见"
+    "riskReversal": {
+      "title": "风险逆转机制",
+      "description": "预热托管账号 + 防关联环境，彻底解决封号焦虑"
     }
   },
   "capabilities": {
-    "intro": "由三大核心引擎驱动：",
-    "aiEngine": {
-      "title": "AI 内容引擎",
-      "subtitle": "一个链接，100 种表达",
-      "description": "自动提取卖点，生成视频、图片、文案，保持品牌调性。"
+    "intro": "雇佣你的 24/7 数字员工团队：",
+    "editor": {
+      "title": "AI 批量剪辑师",
+      "subtitle": "替代底层混剪员",
+      "description": "毫秒级完成结构化变体生成，将 Token 成本降低 80%。"
     },
-    "matrixWorkflow": {
-      "title": "矩阵分发系统",
-      "subtitle": "一人管理 1000 个账号",
-      "description": "智能排期、批量发布、类人互动，全平台覆盖。"
+    "manager": {
+      "title": "矩阵分发主管",
+      "subtitle": "自动化调度",
+      "description": "一人管理数百个账号，突破人工操作效率瓶颈。"
     },
-    "dataOptimization": {
-      "title": "数据优化闭环",
-      "subtitle": "让数据告诉你下一步",
-      "description": "实时 A/B 测试，自动筛选爆款，每一分钱都花在刀刃上。"
+    "analyst": {
+      "title": "全域增长分析师",
+      "subtitle": "ROI 驱动决策",
+      "description": "聚合 TikTok/IG 数据，提供跨平台增长洞察。"
     }
   },
   "socialProof": {
