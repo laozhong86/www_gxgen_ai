@@ -103,14 +103,14 @@
     "outputLabel": "생성된 콘텐츠 매트릭스:",
     "video": "영상",
     "image": "이미지",
-    "copy": "카피",
     "supportedLinks": "Supports Amazon, Shopify, and 50+ e-commerce platforms",
     "tryExample": "Try example:",
     "exampleEcommerce": "E-commerce",
-    "exampleCrossBorder": "Cross-border",
     "exampleBrand": "Brand",
     "startGenerating": "Start Generating",
-    "tryAnother": "Try another"
+    "tryAnother": "Try another",
+    "account": "계정 수",
+    "exampleSaas": "SaaS & 소프트웨어"
   },
   "socialProof": {
     "intro": "실제 사용자의 실제 성과:",

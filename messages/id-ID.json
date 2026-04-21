@@ -103,14 +103,14 @@
     "outputLabel": "Matriks konten yang dihasilkan:",
     "video": "Video",
     "image": "Gambar",
-    "copy": "Teks",
     "supportedLinks": "Supports Amazon, Shopify, and 50+ e-commerce platforms",
     "tryExample": "Try example:",
     "exampleEcommerce": "E-commerce",
-    "exampleCrossBorder": "Cross-border",
     "exampleBrand": "Brand",
     "startGenerating": "Start Generating",
-    "tryAnother": "Try another"
+    "tryAnother": "Try another",
+    "account": "Akun",
+    "exampleSaas": "SaaS & Perangkat Lunak"
   },
   "socialProof": {
     "intro": "Hasil nyata dari pengguna nyata:",
