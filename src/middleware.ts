@@ -26,7 +26,7 @@ export default function middleware(request: NextRequest) {
 }
 
 export const config = {
-  // Match all paths except api, _next, _vercel
+  // Match all paths except api, _next, _vercel, images, fonts (static assets)
   // We include files (.*\\..*) in the matcher so we can intercept 404s for them in middleware
-  matcher: ['/((?!api|_next|_vercel).*)'],
+  matcher: ['/((?!api|_next|_vercel|images|fonts).*)'],
 };
